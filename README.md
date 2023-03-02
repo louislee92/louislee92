@@ -3,7 +3,7 @@
 
  ### Hi there 👋
 
-- 🌱 正在努力学习前端游戏开发
+- 🌱 吾生也有涯，而知也无涯 。以有涯随无涯，殆已！
 - 📫 How to reach me: louislee92@163.com
 - ✈ http://louislee92.com
 <!--
