@@ -5,7 +5,7 @@
 
 - 🌱 吾生也有涯，而知也无涯 。以有涯随无涯，殆已！
 - 📫 How to reach me: louislee92@163.com
-- ✈ http://louislee92.com
+- ✈ http://xstx.fun
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
